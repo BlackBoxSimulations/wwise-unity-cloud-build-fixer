@@ -32,7 +32,7 @@ namespace Common.Tools
     /// <summary>
     /// A fix for Cloud Build while using Wwise. Add to Editor Folder
     /// </summary>
-    public class WwiseFixEditor : MonoBehaviour
+    public class WwiseFixEditor
     {
         [MenuItem("Tools/Fix Wwise Cloud Build")]
         public static void CreateNewGameObject()
