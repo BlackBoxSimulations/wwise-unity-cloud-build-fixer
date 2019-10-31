@@ -1,4 +1,4 @@
-#  Wwise Tool in Unity
+#  Wwise Unity Cloud Build Fixer
 BlackBox Realities decided to use the Wwise audio engine inside of the Unity game engine. While the tool has been used in triple-A titles, the barebone Unity SDK makes it difficult to work with. To help our audio engineer Krystian and I developed a set of tools to improve workflow. 
 
 The first of the asset I we created was to solve the issue of Unity Cloud Build not working with Wwise. Our projects were over 32 gigabytes and took hours to build, so it was crucial for us to offload building of the projects onto the cloud. 
